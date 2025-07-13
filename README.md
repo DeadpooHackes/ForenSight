@@ -3,8 +3,9 @@
 **Forensic Insight** is a desktop forensic analysis tool for Windows that helps cybersecurity professionals and forensic analysts collect critical system data quickly and generate structured reports. It collects logs, registry data, and network activity, and creates comprehensive HTML reports with built-in charts.
 
 ---
+<img width="60" height="60" alt="logo" src="https://github.com/user-attachments/assets/1b199735-dda6-473b-af98-ddddef5e5dab" />
 
-## 📦 Features
+## 📦 Features 
 
 - ✅ Collects:
   - Windows **Security**, **Application**, and **System** Event Logs
@@ -17,8 +18,11 @@
 - 🌐 Offline-safe – skips Telegram if no connection
 
 ---
-C:\Users\TarunSharma\OneDrive\Desktop\demo learning\Screenshot 2025-07-14 043318.png
-C:\Users\TarunSharma\OneDrive\Desktop\demo learning\Screenshot_14-7-2025_43834_.jpeg
+
+<img width="100px" height="100px" alt="Screenshot 2025-07-14 043318" src="https://github.com/user-attachments/assets/2ec1c907-ec8e-4312-8c0a-91fe16009850" />
+
+
+![Screenshot_14-7-2025_43834_](https://github.com/user-attachments/assets/f2e3bb95-ea07-47ba-8e86-b513260a29b3)
 
 ---
 
