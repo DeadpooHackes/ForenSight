@@ -5,8 +5,8 @@ import telebot
 import matplotlib.pyplot as plt
 
 # Telegram Bot Setup
-TELEGRAM_BOT_TOKEN = "ENTER TOKEN"
-TELEGRAM_CHAT_ID = "ENTER CHAT ID"
+TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"
+TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
 # Output Directory
