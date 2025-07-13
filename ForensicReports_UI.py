@@ -9,8 +9,8 @@ from PIL import Image, ImageTk
 import sys
 
 # Telegram Bot Setup
-TELEGRAM_BOT_TOKEN = "5337889327:AAG3gmvlBaNMBN0MySQFamh-Orq1MfQ4z2E"
-TELEGRAM_CHAT_ID = "1311015628"
+TELEGRAM_BOT_TOKEN = "ENTER TOKEN"
+TELEGRAM_CHAT_ID = "ENTER CHAT ID"
 bot = telebot.TeleBot(TELEGRAM_BOT_TOKEN)
 
 # Output Directory
