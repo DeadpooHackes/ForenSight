@@ -5,6 +5,7 @@
 ---
 <img width="60" height="60" alt="logo" src="https://github.com/user-attachments/assets/1b199735-dda6-473b-af98-ddddef5e5dab" />
 
+
 ## 📦 Features 
 
 - ✅ Collects:
@@ -20,6 +21,8 @@
 ---
 
 <img width="300px" height="300px" alt="Screenshot 2025-07-14 043318" src="https://github.com/user-attachments/assets/2ec1c907-ec8e-4312-8c0a-91fe16009850" />
+
+<img width="500px" height="800px" alt="[Screenshot_14-7-2025_43834_](https://github.com/user-attachments/assets/16510862-21c6-4e8c-8a53-1a48fb3eeeb8"/>
 
 
 ---
