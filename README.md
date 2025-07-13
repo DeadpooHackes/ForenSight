@@ -17,10 +17,8 @@
 - 🌐 Offline-safe – skips Telegram if no connection
 
 ---
-
-## 🖼️ Screenshot
-
-*(Add screenshot here if available)*
+C:\Users\TarunSharma\OneDrive\Desktop\demo learning\Screenshot 2025-07-14 043318.png
+C:\Users\TarunSharma\OneDrive\Desktop\demo learning\Screenshot_14-7-2025_43834_.jpeg
 
 ---
 
