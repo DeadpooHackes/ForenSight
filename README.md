@@ -1,5 +1,3 @@
-# ForenSight
-Forensic Insight is a powerful desktop application designed for forensic analysts and cybersecurity professionals. It automates the collection of critical system data from Windows environments, enabling fast and structured evidence gathering.
 # 🕵️ Forensic Insight
 
 **Forensic Insight** is a desktop forensic analysis tool for Windows that helps cybersecurity professionals and forensic analysts collect critical system data quickly and generate structured reports. It collects logs, registry data, and network activity, and creates comprehensive HTML reports with built-in charts.
