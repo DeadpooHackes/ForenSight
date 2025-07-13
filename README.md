@@ -19,10 +19,8 @@
 
 ---
 
-<img width="100px" height="100px" alt="Screenshot 2025-07-14 043318" src="https://github.com/user-attachments/assets/2ec1c907-ec8e-4312-8c0a-91fe16009850" />
+<img width="300px" height="300px" alt="Screenshot 2025-07-14 043318" src="https://github.com/user-attachments/assets/2ec1c907-ec8e-4312-8c0a-91fe16009850" />
 
-
-![Screenshot_14-7-2025_43834_](https://github.com/user-attachments/assets/f2e3bb95-ea07-47ba-8e86-b513260a29b3)
 
 ---
 
