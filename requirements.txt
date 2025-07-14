@@ -1,0 +1,13 @@
+Pillow
+pyTelegramBotAPI
+psutil
+flask
+flask-socketio
+requests
+colorama
+matplotlib
+chart.js
+py-cpuinfo
+netifaces
+scapy
+pywin32 ; sys_platform == 'win32'
